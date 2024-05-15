@@ -3,9 +3,11 @@ This is the first project in my series of little educational projects. Goal of t
 Everything I've been doing before was learning new skills by developing separate mechanics in separate projects, but none of those projects were completely playable.
 
 King-Pong is playable, but mistakes were made, for example if you consider:
+
 - downloading the project via ZIP-file
 - opening the MainMenu scene
 - and pressing Play button
+
 you will have to try every button on your keyboard or gamepad to find buttons responsible for parying (Space or ), using skill (F or ) and picking up new shield (E or ). That's because
 game lacks tutorial during which you would learn controls and game rules.
 
