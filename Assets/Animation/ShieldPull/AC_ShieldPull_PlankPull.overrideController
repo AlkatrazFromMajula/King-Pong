@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AC_ShieldPull_PlankPull
+  m_Controller: {fileID: 9100000, guid: 9f048d6f323e377429bc4747d6dcaf1f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1d110451af48ac546914bd61dd1d71a3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0dd993bf564df554284463cbfd96b381, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b04da78f37df1174b87081ddf737ea8f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b050455554140d44abc062624cabb2f1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8255d9807e59589459283aa5c2c90c60, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 139b43d78007ce449adac444db6d5902, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8ae1a6e0c5157234c962860d6996d6d2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dbcbe00282ecbff4ba22e00e78c82343, type: 2}
