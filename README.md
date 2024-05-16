@@ -1,5 +1,5 @@
 # King-Pong
-![New Project - Made with Clipchamp (1)](https://github.com/AlkatrazFromMajula/King-Pong/assets/61757792/32fe50be-f826-4050-a58e-871be5f76859)
+![Uploading New Project - Made with Clipchamp.gif…]()
 
 This is the first project in my series of little educational projects. Goal of this project was to understand how things work in 2D space as well as to create my first "complete" game.
 Everything I've been doing before was learning new skills by developing separate mechanics in separate projects, but none of those projects were completely playable.
