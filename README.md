@@ -1,8 +1,9 @@
 # King-Pong
+![Uploading New Project - Made with Clipchamp.gif…]()
 
 This is the first project in my series of little educational projects. Goal of this project was to understand how things work in 2D space as well as to create my first "complete" game.
 Everything I've been doing before was learning new skills by developing separate mechanics in separate projects, but none of those projects were completely playable.
-![King-Pong_Gameplay](https://github.com/AlkatrazFromMajula/King-Pong/assets/61757792/f7d13409-047e-4260-86db-41dfd8b68b72)
+
 King-Pong is playable, but mistakes were made, for example if you consider:
 
 - downloading the project via ZIP-file
